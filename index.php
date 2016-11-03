@@ -25,7 +25,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>연관검색어</title>
+<title>연관검색어 테스트</title>
 <link href="css/crawling1.css" rel="stylesheet">
 <meta content="text/html; charset=UTF8" http=equiv="content-type">
 </head>
