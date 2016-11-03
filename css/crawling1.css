@@ -1,0 +1,49 @@
+.search{
+	width: 100%; 
+	border:1px solid black ;
+	margin-top: 5%;
+	margin-bottom: 5%
+}
+
+.keywordParentList{
+	overflow:scroll;
+	width: 100%;
+	height: 100%;
+	border:1px solid black ;
+	float:left; 
+	margin-right:2.5%;
+}
+
+.keywordList{
+	width: 30%;
+	height: auto; 
+	border:1px solid black;
+	float:left; 
+	margin-right:2.5%;
+}
+
+.childkeywordList{
+	width: 47%;
+	height: 300px; 
+	overflow:scroll;
+	border:1px solid black;
+	float:left; 
+	margin-right:2%;
+	margin-bottom: 30px;
+}
+
+.backgroundChange{
+		width: 47%;
+		height: 300px; 
+		overflow:scroll;
+		border:1px solid black;
+		float:left; 
+		margin-right:2%;
+		margin-bottom: 30px;
+		background-color:  gray;
+	}
+	
+.mainButton{
+	width: 100%;
+	height: 50px;
+}
