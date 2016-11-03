@@ -19,7 +19,7 @@
 			foreach($value as $key=>$value){
 				$keywordClass->Crawling($key , $class_curl->getUrl($value));
 			}
-		}		
+		}		  
 ?>
 
 <!DOCTYPE HTML>
